@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Shopping-Cart/static/css/main.048fc1d6.chunk.css",
+    "main.js": "/Shopping-Cart/static/js/main.be3b26f7.chunk.js",
+    "main.js.map": "/Shopping-Cart/static/js/main.be3b26f7.chunk.js.map",
+    "runtime~main.js": "/Shopping-Cart/static/js/runtime~main.9ff5cdc7.js",
+    "runtime~main.js.map": "/Shopping-Cart/static/js/runtime~main.9ff5cdc7.js.map",
+    "static/js/2.9b9a2311.chunk.js": "/Shopping-Cart/static/js/2.9b9a2311.chunk.js",
+    "static/js/2.9b9a2311.chunk.js.map": "/Shopping-Cart/static/js/2.9b9a2311.chunk.js.map",
+    "index.html": "/Shopping-Cart/index.html",
+    "precache-manifest.af5c032294d08b9d53e646661e991f66.js": "/Shopping-Cart/precache-manifest.af5c032294d08b9d53e646661e991f66.js",
+    "service-worker.js": "/Shopping-Cart/service-worker.js",
+    "static/css/main.048fc1d6.chunk.css.map": "/Shopping-Cart/static/css/main.048fc1d6.chunk.css.map",
+    "static/media/apple.jpg": "/Shopping-Cart/static/media/apple.15ce06f6.jpg",
+    "static/media/banana.jpg": "/Shopping-Cart/static/media/banana.be6b6ed7.jpg",
+    "static/media/grapes.jpg": "/Shopping-Cart/static/media/grapes.74513682.jpg",
+    "static/media/mango.jpg": "/Shopping-Cart/static/media/mango.af6f3490.jpg",
+    "static/media/orange.jpg": "/Shopping-Cart/static/media/orange.75d5612e.jpg",
+    "static/media/papaya.jpg": "/Shopping-Cart/static/media/papaya.4af14745.jpg",
+    "static/media/watermelon.jpg": "/Shopping-Cart/static/media/watermelon.257fa527.jpg"
+  }
+}
